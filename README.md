@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi, I'm D 👋
+## Hi, I'm D ✌️👌🫡
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Engineer+Focused+on+Evolving+Systems;)](https://git.io/typing-svg)
 
@@ -13,7 +13,7 @@
 
 ---
 
-### 📫 Connect With Me
+### 📬 Connect With Me
 
 <div align="center">
 
@@ -28,9 +28,9 @@
 
 </div>
 
-- **[AgentBasedModelling_EMS](https://github.com/danieleb1891/AgentBasedModelling_EMS)** - Agent Based Modelling of tunable parameters of an Energy Management System
-- **[Real-data_Load-sharing](https://github.com/danieleb1891/Real-data_Load-sharing)** - Load sharing used in scientific articles with data measured on field with different optimisation algorithms - **[Publication](https://doi.org/10.1016/j.apenergy.2025.126983)**
-- **[BESS_sizing_tool](https://github.com/danieleb1891/BESS_sizing_tool)** - Battery Energy Storage System sizing for Naval Ship Power Systems — Open Access Python Tool
+- 🤖 **[AgentBasedModelling_EMS](https://github.com/danieleb1891/AgentBasedModelling_EMS)** - Agent Based Modelling of tunable parameters of an Energy Management System
+- ⚡️ **[Real-data_Load-sharing](https://github.com/danieleb1891/Real-data_Load-sharing)** - Load sharing used in scientific articles with data measured on field with different optimisation algorithms - **[Publication](https://doi.org/10.1016/j.apenergy.2025.126983)**
+- 🔋 **[BESS_sizing_tool](https://github.com/danieleb1891/BESS_sizing_tool)** - Battery Energy Storage System sizing for Naval Ship Power Systems — Open Access Python Tool
 
 </div>
 
@@ -39,9 +39,9 @@
 ### 🎯 Current Focus
 
 ```text
-💹 Day job        Sailing
-🔭 Side projects  Agent-Based Control Systems and time series forecasting
-💬 Ask me about   Naval Architecture, Automation Engineering and Neural Nets
+💼 Day job ⚓️     Sailing
+🛸 Side projects  Agent-Based Control Systems and time series forecasting
+💬 Ask me about   Naval Architecture, Automation Engineering and Artificial Neural Networks
 ⚡ Fun fact       Experimenting with AI
 ```
 
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-### 💡 Random Dev Quote
+### 💡 Random Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
