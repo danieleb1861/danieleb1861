@@ -4,11 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Engineer+focused+on+evolving+systems;)](https://git.io/typing-svg)
 
-![python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=for-the-badgelogo=scikit-learn&logoColor=white)
-![Matlab](https://img.shields.io/badge/-matlab-000000?style=for-the-badge&logo=matlab&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+[![python](https://img.shields.io/badge/-python-000000?logo=python&logoColor=white)](https://www.python.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![MathWorks](https://img.shields.io/badge/MathWorks-MATLAB-0076A8?logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+[![CLI](https://img.shields.io/badge/-CLI-000000?logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Command-line_interface)
+[![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)](https://www.apple.com/macos/)
 
 </div>
 
@@ -18,8 +18,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniele-belvisi/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danieleb1891)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniele-belvisi/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/danieleb1891)
 
 </div>
 
@@ -28,7 +28,7 @@
 ### 🎯 Current Focus
 
 ```text
-💼 Day job ⚓️     Sailing
+⚓️ Day job        Sailing
 🛸 Side projects  Agent-Based Control Systems and time series forecasting
 💬 Ask me about   Naval Architecture, Automation Engineering and Artificial Neural Networks
 ⚡ Fun fact       Experimenting with AI
@@ -84,6 +84,6 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/danieleb1891?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/danieleb1891)
-[![GitHub User's stars](https://img.shields.io/github/stars/danieleb1891?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/danieleb1891)
-[![Profile Views](https://komarev.com/ghpvc/?username=danieleb1891&style=for-the-badge&color=blueviolet)](https://github.com/danieleb1891)
+[![GitHub followers](https://img.shields.io/github/followers/danieleb1891?logo=github&color=0891b2&labelColor=1c1917)](https://github.com/danieleb1891)
+[![GitHub User's stars](https://img.shields.io/github/stars/danieleb1891?logo=github&color=0891b2&labelColor=1c1917)](https://github.com/danieleb1891)
+[![Profile Views](https://komarev.com/ghpvc/?username=danieleb1891&color=blueviolet)](https://github.com/danieleb1891)
