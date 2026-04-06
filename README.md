@@ -2,9 +2,10 @@
 
 ## Hi, I'm D ✌️👌🫡
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Engineer+Focused+on+Evolving+Systems;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Engineer+focused+on+evolving+systems;)](https://git.io/typing-svg)
 
 ![python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python&logoColor=white)
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" />
 ![Matlab](https://img.shields.io/badge/-matlab-000000?style=for-the-badge&logo=matlab&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -13,24 +14,12 @@
 
 ---
 
-### 📬 Connect With Me
+### 📬 Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniele-belvisi/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danieleb1891)
-
-</div>
-
----
-
-### 🛠 Current Projects
-
-</div>
-
-- 🤖 **[AgentBasedModelling_EMS](https://github.com/danieleb1891/AgentBasedModelling_EMS)** - Agent Based Modelling of tunable parameters of an Energy Management System
-- ⚡️ **[Real-data_Load-sharing](https://github.com/danieleb1891/Real-data_Load-sharing)** - Load sharing used in scientific articles with data measured on field with different optimisation algorithms - **[Publication](https://doi.org/10.1016/j.apenergy.2025.126983)**
-- 🔋 **[BESS_sizing_tool](https://github.com/danieleb1891/BESS_sizing_tool)** - Battery Energy Storage System sizing for Naval Ship Power Systems — Open Access Python Tool
 
 </div>
 
@@ -44,6 +33,18 @@
 💬 Ask me about   Naval Architecture, Automation Engineering and Artificial Neural Networks
 ⚡ Fun fact       Experimenting with AI
 ```
+
+---
+
+### 🛠 Current Projects
+
+</div>
+
+- 🤖 **[AgentBasedModelling_EMS](https://github.com/danieleb1891/AgentBasedModelling_EMS)** - Agent Based Modelling of tunable parameters of an Energy Management System
+- ⚡️ **[Real-data_Load-sharing](https://github.com/danieleb1891/Real-data_Load-sharing)** - Load sharing used in scientific articles with data measured on field with different optimisation algorithms - **[Publication](https://doi.org/10.1016/j.apenergy.2025.126983)**
+- 🔋 **[BESS_sizing_tool](https://github.com/danieleb1891/BESS_sizing_tool)** - Battery Energy Storage System sizing for Naval Ship Power Systems — Open Access Python Tool
+
+</div>
 
 ---
 
