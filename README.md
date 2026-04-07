@@ -84,6 +84,6 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/danieleb1891?logo=github&color=0891b2&labelColor=1c1917)](https://github.com/danieleb1891)
-[![GitHub User's stars](https://img.shields.io/github/stars/danieleb1891?logo=github&color=0891b2&labelColor=1c1917)](https://github.com/danieleb1891)
-[![Profile Views](https://komarev.com/ghpvc/?username=danieleb1891&color=blueviolet)](https://github.com/danieleb1891)
+[![GitHub followers](https://img.shields.io/github/followers/danieleb1861?logo=github&color=0891b2&labelColor=1c1917)](https://github.com/danieleb1861)
+[![GitHub User's stars](https://img.shields.io/github/stars/danieleb1861?logo=github&color=0891b2&labelColor=1c1917)](https://github.com/danieleb1861)
+[![Profile Views](https://komarev.com/ghpvc/?username=danieleb1861&color=blueviolet)](https://github.com/danieleb1861)
