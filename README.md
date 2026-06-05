@@ -39,7 +39,7 @@
 
 ---
 
-### 🛠 Relevant Projects
+### 🛠 Some Projects
 
 </div>
 
