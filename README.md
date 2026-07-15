@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Engineer+focused+on+evolving+systems;)](https://git.io/typing-svg)
 
 [![python](https://img.shields.io/badge/-python-000000?logo=python&logoColor=white)](https://www.python.org/)
-[![JAX](https://img.shields.io/badge/JAX-000000)](https://github.com/jax-ml/jax)
+[![JAX](https://img.shields.io/badge/JAX-000000?logo=jax)](https://github.com/jax-ml/jax)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Gymnasium](https://img.shields.io/badge/Gymnasium-RL-000000?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij4KPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjQiPgo8Y2lyY2xlIGN4PSIzMiIgY3k9IjE4IiByPSIxMiIvPgo8Y2lyY2xlIGN4PSI0NCIgY3k9IjI1IiByPSIxMiIvPgo8Y2lyY2xlIGN4PSI0NCIgY3k9IjM5IiByPSIxMiIvPgo8Y2lyY2xlIGN4PSIzMiIgY3k9IjQ2IiByPSIxMiIvPgo8Y2lyY2xlIGN4PSIyMCIgY3k9IjM5IiByPSIxMiIvPgo8Y2lyY2xlIGN4PSIyMCIgY3k9IjI1IiByPSIxMiIvPgo8L2c%2BCjwvc3ZnPg%3D%3D)](https://gymnasium.farama.org/)
