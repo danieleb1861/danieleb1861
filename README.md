@@ -48,7 +48,7 @@
 - 🧠 **[predict-timeseries](https://github.com/danieleb1861/predict-timeseries)** - Electric load analysis and forecasting using different Deep Neural Network frameworks for timeseries prediction
 - ⚡️ **[Real-data_Load-sharing](https://github.com/danieleb1861/Real-data_Load-sharing)** - Load sharing technique used in scientific articles with data measured on field with different optimisation algorithms - **[Paper](https://doi.org/10.1016/j.apenergy.2025.126983)**
 - 🔋 **[BESS_sizing_tool](https://github.com/danieleb1861/BESS_sizing_tool)** - Battery Energy Storage System sizing for Naval Ship Power Systems — Open Access Tool
-- 🚢 **[vessel-trend-manager](https://github.com/danieleb1861/vessel-trend-manager)** - Offline trend viewer for ship machinery archives (AMS SQLite exports): read-only, no network, Rust + egui, with a synthetic demo
+- 🚢 **[vessel-trend-manager](https://github.com/danieleb1861/vessel-trend-manager)** - Rust + egui/egui_plot + rusqlite tool for time-series analysis of ship machinery sensor data, with peak-preserving downsampling and data-quality flags to reveal slow drifts before they become alarms
 
 </div>
 
